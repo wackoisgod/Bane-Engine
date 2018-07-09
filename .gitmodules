@@ -1,0 +1,3 @@
+[submodule "ProjectBane/External\\assimp"]
+	path = ProjectBane/External\\assimp
+	url = https://github.com/assimp/assimp.git
